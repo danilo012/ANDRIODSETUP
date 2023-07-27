@@ -14,8 +14,8 @@
 .smartphone:before {
   content: '';
   display: block;
-  width: 60px;
-  height: 5px;
+  width: 600px;
+  height: 500px;
   position: absolute;
   top: -30px;
   left: 50%;
